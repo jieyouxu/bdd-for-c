@@ -360,7 +360,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+Modified 2018 Jieyou Xu
 
 [bdd]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [c]: https://en.wikipedia.org/wiki/C_%28programming_language%29
