@@ -54,10 +54,10 @@ You should then see test output similar to the following:
 
 ```
 strncmp
-  should return 0 when strings are equal (OK)
-  should work for empty strings (OK)
-  should return non-0 when strings are not equal (OK)
-  should return 0 when strings match up to specified length (OK)
+  ✔ should return 0 when strings are equal (OK)
+  ✔ should work for empty strings (OK)
+  ✔ should return non-0 when strings are not equal (OK)
+  ✔ should return 0 when strings match up to specified length (OK)
 ```
 
 ## Project Motivation and Development Philosophy
