@@ -54,10 +54,10 @@ You should then see test output similar to the following:
 
 ```
 strncmp
-  should return 0 when strings are equal (OK)
-  should work for empty strings (OK)
-  should return non-0 when strings are not equal (OK)
-  should return 0 when strings match up to specified length (OK)
+  ✔ should return 0 when strings are equal (OK)
+  ✔ should work for empty strings (OK)
+  ✔ should return non-0 when strings are not equal (OK)
+  ✔ should return 0 when strings match up to specified length (OK)
 ```
 
 ## Project Motivation and Development Philosophy
@@ -360,7 +360,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+Modified 2018 Jieyou Xu
 
 [bdd]: https://en.wikipedia.org/wiki/Behavior-driven_development
 [c]: https://en.wikipedia.org/wiki/C_%28programming_language%29
