@@ -328,7 +328,7 @@ void __bdd_run__(__bdd_config_type__* config) {
                 }
 
                 printf(
-                    "%s%s%s %s %s(OK)%s\n",
+                    "%s%s%s %s %s(PASS)%s\n",
                     config->use_color ? __BDD_COLOR_GREEN__ : "",
                     __BDD_ICON_CHECK_MARK__,
                     config->use_color ? __BDD_COLOR_RESET__ : "",
